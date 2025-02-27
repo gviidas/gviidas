@@ -3,11 +3,10 @@
 > "The future of AI is not about machines becoming human. It's about becoming better humans." - Max Tegmark
 
 ## About Me
-I'm Gvidas, a dynamic Design Engineer at day, aspiring Data Scientist at night. (like data driven batman)🌟  
+I'm Gvidas aspiring Data Scientist  
  
 With a deep passion for the world of AI and data, I'm currently on an exciting journey, diving into the realms of Data Science and Artificial Intelligence. My goal? To blend my engineering expertise with cutting-edge data science to innovate and solve real-world problems.
 
-<img src="https://cdn.pixabay.com/photo/2016/08/17/22/23/zap-1601678_1280.png" width="30%" height="30%">
 
 ## 🛠️ Technologies and Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
